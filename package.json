@@ -1,0 +1,27 @@
+{
+  "name": "lorhapi",
+  "version": "1.0.0",
+  "description": "A test API for cosmetic products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OnixFang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnixFang/lorhapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OnixFang/lorhapi/issues"
+  },
+  "homepage": "https://github.com/OnixFang/lorhapi"
+}
