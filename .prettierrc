@@ -4,7 +4,8 @@
       "files": "*.js",
       "excludeFiles": ["node_modules"],
       "options": {
-        "singleQuote": true
+        "singleQuote": true,
+        "printWidth": 120
       }
     }
   ]
