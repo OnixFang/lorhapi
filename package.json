@@ -4,6 +4,8 @@
   "description": "A test API for cosmetic products.",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon -r dotenv/config index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "OnixFang",
