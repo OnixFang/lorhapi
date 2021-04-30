@@ -1,0 +1,11 @@
+{
+  "overrides": [
+    {
+      "files": "*.js",
+      "excludeFiles": ["node_modules"],
+      "options": {
+        "singleQuote": true
+      }
+    }
+  ]
+}
